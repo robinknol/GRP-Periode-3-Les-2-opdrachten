@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/.idea.GRP-Periode-3-Les-2-opdrachten.iml
+/modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../../:\Users\knolb\Documents\MaFolder\p3\Unity\GRP-Periode-3-Les-2-opdrachten\.idea\.idea.GRP-Periode-3-Les-2-opdrachten\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
