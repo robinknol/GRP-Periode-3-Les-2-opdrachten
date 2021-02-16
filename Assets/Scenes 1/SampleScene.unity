@@ -457,7 +457,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1747937379}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ed4f77c5260764e4eadb99366009b1d5, type: 3}
   m_Name: 
@@ -545,16 +545,13 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1747937379}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 9f85a1912d6c6de4bb6fe4f14edfa3b3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  endPos: {x: 10, y: 0, z: 0}
+  endPos: {x: 10, y: 10, z: 10}
   moveTime: 10
-  movementOption:
-  - Old
-  - EaseInQuad
 --- !u!1 &1952609441
 GameObject:
   m_ObjectHideFlags: 0
