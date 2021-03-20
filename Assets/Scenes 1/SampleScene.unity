@@ -551,7 +551,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   endPos: {x: 10, y: 10, z: 10}
-  moveTime: 10
+  endScale: {x: 5, y: 5, z: 5}
+  moveTime: 0.1
+  move: 1
+  grow: 0
+  easeInQuad: 1
+  easeOutQuad: 0
+  easeOutQuart: 0
 --- !u!1 &1952609441
 GameObject:
   m_ObjectHideFlags: 0

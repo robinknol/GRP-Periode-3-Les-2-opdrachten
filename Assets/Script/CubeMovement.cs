@@ -55,6 +55,10 @@ namespace Script
         {
             while (_percent < 1)
             {
+                print("Percent: " + _percent);
+                print("Time.deltaTime " + Time.deltaTime);
+                print(_percent + " += " + Time.deltaTime + " / " + moveTime);
+                print("");
                 _percent += Time.deltaTime / moveTime;
 
                 if (easeInQuad)
